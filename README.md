@@ -29,3 +29,13 @@ git clone https://github.com/Erika-Skarda/API_LaBook_3.git
 Abra pasta no terminal e digite: npm install
 
 Por fim, digite: code . e você poderá ver o código dessa API.
+
+## Stack
+Esse é um projeto de Backend feito utilizando NodeJS, Express, Typescript 
+e MySQL. Além disso, ele segue uma arquitetura baseada em MVC, com 3 camadas 
+simples:
+
+:rocket: 1. Controller: responsável pela comunicação com agentes externos 
+(como o Frontend)
+:rocket: 2. Model: responsável pela representação das nossas entidades
+:rocket: 3. Business: responsável pela lógica de negócio
