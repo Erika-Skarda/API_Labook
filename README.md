@@ -7,6 +7,8 @@ Documentação oficial da API da rede social Labook.
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
   <img src="https://img.shields.io/static/v1?label=node&message=language&color=green&style=for-the-badge&logo="NODE"/>
 </p>
+  
+> Status do Projeto: Concluído :heavy_check_mark: 
 
 ## Link da documentação:
 
