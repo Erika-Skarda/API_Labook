@@ -58,9 +58,11 @@ npm start
 - [AWS](https://aws.google.com/)
 - [express](https://expressjs.com/)
 - [jwt](https://jwt.io/)
-- [knex[(http://knexjs.org/)
+- [knex](http://knexjs.org/)
 - [moment](https://momentjs.com/docs/)
 - [uuid](https://www.uuidgenerator.net/)
+- [bcrypt] (https://www.npmjs.com/package/bcryptjs)
+- [dotenv] (https://www.npmjs.com/package/dotenv)
 
 ## Stack
 Esse é um projeto de Backend feito utilizando NodeJS, Express, Typescript 
