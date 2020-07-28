@@ -17,7 +17,7 @@ A API Labbok foi criada para ser usada como uma rede social com o objetivo de pr
 
 ## Endpoints:
 
-:alien: <b> 1. Cadastrar </br>
+:alien: <b> 1. Cadastrar </br></br>
 :alien: 2. Logar</br>
 :alien: 3. Fazer amizade</br>
 :alien: 4. Desfazer Amizade</br>
