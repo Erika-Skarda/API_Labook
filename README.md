@@ -36,6 +36,6 @@ e MySQL. Além disso, ele segue uma arquitetura baseada em MVC, com 3 camadas
 simples:
 
 :rocket: 1. Controller: responsável pela comunicação com agentes externos 
-(como o Frontend)
-:rocket: 2. Model: responsável pela representação das nossas entidades
-:rocket: 3. Business: responsável pela lógica de negócio
+(como o Frontend)</br>
+:rocket: 2. Model: responsável pela representação das nossas entidades </br>
+:rocket: 3. Business: responsável pela lógica de negócio</br>
