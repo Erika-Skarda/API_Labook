@@ -18,16 +18,16 @@ A API Labbok foi criada para ser usada como uma rede social com o objetivo de pr
 ## Endpoints:
 
 :alien: <b> 1. Cadastrar </br></br>
-:alien: 2. Logar</br>
-:alien: 3. Fazer amizade</br>
-:alien: 4. Desfazer Amizade</br>
-:alien: 5. Criar post</br>
-:alien: 6. Ver todo o Feed</br>
-:alien: 7. Ver apenas um tipo de post do Feed</br>
-:alien: 8. Curtir Post</br>
-:alien: 9. Descurtir Post</br> 
-:alien: 10. Comentar Post</br>
-:alien: 11. Paginar Feed</br> </b>
+:alien: 2. Logar</br></br>
+:alien: 3. Fazer amizade</br></br>
+:alien: 4. Desfazer Amizade</br></br>
+:alien: 5. Criar post</br></br>
+:alien: 6. Ver todo o Feed</br></br>
+:alien: 7. Ver apenas um tipo de post do Feed</br></br>
+:alien: 8. Curtir Post</br></br>
+:alien: 9. Descurtir Post</br></br> 
+:alien: 10. Comentar Post</br></br>
+:alien: 11. Paginar Feed</br></br> </b>
 
 ## Pré-requisitos
 
