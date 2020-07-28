@@ -1,6 +1,13 @@
 # API_LaBook_3 :rocket:
 Documentação oficial da API da rede social Labook.
 
+<p align="center">
+
+  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=green&style=for-the-badge&logo=JAVASCRIPT"/>
+  <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
+  img src="https://img.shields.io/static/v1?label=typescript&message=language&color=purple&style=for-the-badge&logo=TYPESCRIPT"/>
+</p>
+
 ## Link da documentação:
 
 [Postman](https://documenter.getpostman.com/view/10904258/T17AjBDu?version=latest)
