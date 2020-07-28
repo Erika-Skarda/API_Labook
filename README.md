@@ -29,13 +29,27 @@ A API Labbok foi criada para ser usada como uma rede social com o objetivo de pr
 :alien: 10. Comentar Post</br>
 :alien: 11. Paginar Feed</br>
 
-### Instalando: :floppy_disk:
+## Pré-requisitos
 
+:warning: [Node](https://nodejs.org/en/download/)
+
+:warning: [Npm](https://www.npmjs.com/)
+
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
 git clone https://github.com/Erika-Skarda/API_LaBook_3.git
-
-Abra pasta no terminal e digite: npm install
-
-Por fim, digite: code . e você poderá ver o código dessa API.
+```
+Entre no projeto e instale as dependências através do comando:
+```
+npm install
+```
+Por último, suba a aplicação: 
+```
+npm start
+```
 
 ## Stack
 Esse é um projeto de Backend feito utilizando NodeJS, Express, Typescript 
