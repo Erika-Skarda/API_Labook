@@ -27,7 +27,7 @@ A API Labbok foi criada para ser usada como uma rede social com o objetivo de pr
 :alien: 8. Curtir Post</br>
 :alien: 9. Descurtir Post</br> 
 :alien: 10. Comentar Post</br>
-:alien: 11. Paginar Feed</br>
+:alien: 11. Paginar Feed</br> </b>
 
 ## Pré-requisitos
 
@@ -56,7 +56,7 @@ Esse é um projeto de Backend feito utilizando NodeJS, Express, Typescript
 e MySQL. Além disso, ele segue uma arquitetura baseada em MVC, com 3 camadas 
 simples:
 
-:rocket: 1. Controller: responsável pela comunicação com agentes externos 
+:rocket: <b>1. Controller</b>: responsável pela comunicação com agentes externos 
 (como o Frontend)</br>
-:rocket: 2. Model: responsável pela representação das nossas entidades </br>
-:rocket: 3. Business: responsável pela lógica de negócio</br>
+:rocket: <b>2. Model</b>: responsável pela representação das nossas entidades </br>
+:rocket: <b>3. Business</b>: responsável pela lógica de negócio</br>
