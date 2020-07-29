@@ -75,3 +75,10 @@ simples:
 (como o Frontend)</br>
 :rocket: <b>2. Model</b>: responsável pela representação das nossas entidades </br>
 :rocket: <b>3. Business</b>: responsável pela lógica de negócio</br>
+
+## Desenvolvedores :computer:
+
+- <b>Erika</b> (https://github.com/Erika-Skarda)
+- <b>Ivana</b> (https://github.com/iivanabm)
+- <b>Luan</b> (https://github.com/luancn4)
+
