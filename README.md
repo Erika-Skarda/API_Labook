@@ -67,6 +67,7 @@ npm start
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Stack
+
 Esse é um projeto de Backend feito utilizando NodeJS, Express, Typescript 
 e MySQL. Além disso, ele segue uma arquitetura baseada em MVC, com 3 camadas 
 simples:
@@ -82,3 +83,7 @@ simples:
 - <b>Ivana</b> (https://github.com/iivanabm)
 - <b>Luan</b> (https://github.com/luancn4)
 
+## Desenvolvido Por :octocat:
+
+| [Likedin](https://www.linkedin.com/in/erika-skarda-99915488/) | 
+| :---: |
