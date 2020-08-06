@@ -1,5 +1,6 @@
 # API_LaBook_3 :rocket:
 Documentação oficial da API da rede social Labook.
+</br>
 
 <p align="center">
 
@@ -7,14 +8,22 @@ Documentação oficial da API da rede social Labook.
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
   <img src="https://img.shields.io/static/v1?label=node&message=language&color=green&style=for-the-badge&logo="NODE"/>
 </p>
+  </br>
   
 > Status do Projeto: Concluído :heavy_check_mark: 
 
-## Link da documentação:
+## Link da documentação: :book:
 
-[Postman](https://documenter.getpostman.com/view/10904258/T17AjBDu?version=latest)
+<b>[Postman](https://documenter.getpostman.com/view/10904258/T17AjBDu?version=latest)</b>
+
+## Deploy::dash:
+
+<p align="justify">
+  O deploy do projeto foi realizado no aws e encontra-se disponivel em: <b> https://tchnezbuic.execute-api.us-east-1.amazonaws.com/dev</b>
+</p>
 
 ## Descrição
+
 A API Labbok foi criada para ser usada como uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários. Os usuários podem criar posts de dois tipos ("evento" ou "normal"), comentá-los e curti-los também. 
 
 ## Endpoints:
