@@ -26,7 +26,7 @@ Documentação oficial da API da rede social Labook.
 
 ## Descrição
 
-A API Labbok foi criada para ser usada como uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários. Os usuários podem criar posts de dois tipos ("evento" ou "normal"), comentá-los e curti-los também. 
+A API Labook foi criada para ser usada como uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários. Os usuários podem criar posts de dois tipos ("evento" ou "normal"), comentá-los e curti-los também. 
 
 ## Endpoints:
 
