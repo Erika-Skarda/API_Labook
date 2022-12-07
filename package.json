@@ -24,7 +24,7 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.21.1",
     "mysql": "^2.18.1",
-    "serverless": "^1.74.1",
+    "serverless": "^3.25.1",
     "serverless-http": "^2.5.0",
     "ts-node": "^8.6.2",
     "ts-node-dev": "^1.0.0-pre.49",
