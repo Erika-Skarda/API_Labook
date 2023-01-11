@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "express": "4.17.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "serverless": "^1.74.1",
     "serverless-http": "^2.5.0",
